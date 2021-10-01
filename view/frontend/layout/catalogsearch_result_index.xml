@@ -1,0 +1,23 @@
+<?xml version="1.0"?>
+<!--
+/**
+ * Blackbird ContentManagerIndexerDisabler Module
+ *
+ * NOTICE OF LICENSE
+ *
+ * If you did not receive a copy of the license and are unable to
+ * obtain it through the world-wide-web, please send an email
+ * to contact@bird.eu so we can send you a copy immediately.
+ *
+ * @category            Blackbird
+ * @package             Blackbird_ContentManager
+ * @copyright           Copyright (c) 2018 Blackbird (https://black.bird.eu)
+ * @author              Blackbird Team
+ * @license             https://www.advancedcontentmanager.com/license/
+ */
+-->
+<page xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" layout="2columns-left" xsi:noNamespaceSchemaLocation="urn:magento:framework:View/Layout/etc/page_configuration.xsd">
+    <body>
+        <referenceBlock name="search.content.result" remove="true"/>
+    </body>
+</page>
