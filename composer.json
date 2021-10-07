@@ -2,16 +2,12 @@
     "name": "blackbird/contentmanager-indexerdisabler",
     "description": "",
     "require": {
-        "magento/framework": ">=100.0.0",
-        "blackbird/contentmanager" : ">1.0.0"
-    },
-    "suggest": {
-
+        "magento/framework": ">=100.0.0"
     },
     "type": "magento2-module",
-    "version": "1.0.0",
+    "version": "1.0.1",
     "license": [
-
+        "MIT"
     ],
     "autoload": {
         "files": [
