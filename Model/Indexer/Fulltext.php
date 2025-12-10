@@ -40,7 +40,7 @@ class Fulltext implements
      * @param Traversable|null $entityIds
      * @return void
      */
-    public function executeByDimensions(array $dimensions, Traversable $entityIds = null)
+    public function executeByDimensions(array $dimensions, ?Traversable $entityIds = null)
     {
         return;
     }
