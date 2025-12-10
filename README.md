@@ -6,7 +6,7 @@
 This module must be used in complement with [Blackbird Advanced Content Manager](https://www.advancedcontentmanager.com/) Plugin for Magento.
 
 It is used to disable the search feature and the indexer of Content Manager in order to ensure the compatibility with Magento Live-Search, Algolia or any other Incompatible Search engine like Elasticsuite.
-This module is compatible from Magento 2.2 to the latest Magento 2.4.7, and from php 7.3 to php 8.3.
+This module is compatible from Magento 2.4.x, up to php 8.4.
 
 ## Setup
 
